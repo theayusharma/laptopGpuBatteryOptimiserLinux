@@ -204,3 +204,4 @@ if [ "$gpu_choice" == "2" ] || [ "$gpu_choice" == "3" ]; then
 fi
 
 echo "Configuration complete. Please reboot your system for changes to take effect."
+
